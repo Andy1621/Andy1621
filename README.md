@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm  ✨ **Kunchang Li** ✨, a student of UCAS, China 🇨🇳. 
+I'm  ✨ <a href='https://scholar.google.com/citations?user=D4tLSbsAAAAJ'> **Kunchang Li** </a> ✨, a student of UCAS, China 🇨🇳. 
 
 
 💼 Experiences
