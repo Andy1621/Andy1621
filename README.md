@@ -1,7 +1,5 @@
 ### Hi there 👋
 
----
-
 I'm  ✨ **Kunchang Li** ✨, a student of UCAS, China 🇨🇳. 
 
 
