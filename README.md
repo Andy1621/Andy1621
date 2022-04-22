@@ -28,6 +28,6 @@ I'm  ✨ **Kunchang Li** ✨, a student of UCAS, China 🇨🇳.
 <!-- <a href="https://github.com/Andy1621/seg-for-fun">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Andy1621&repo=seg-for-fun&theme=default" />
 </a> -->
-<a href="https://github.com/Andy1621/CT-Net">
+<!-- <a href="https://github.com/Andy1621/CT-Net">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Andy1621&repo=CT-Net&theme=default" />
-</a>
+</a> -->
