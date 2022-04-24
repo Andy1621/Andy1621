@@ -5,7 +5,7 @@ I'm  ✨ <a href='https://scholar.google.com/citations?user=D4tLSbsAAAAJ'> **Kun
 
 💼 Experiences
 - [2016-2020]🎉 I received my B.E. degree in Software Engineering at Beihang University.
-- [2020-Now]💪 I‘m persuing a Phd in Computer Science at UCAS, advised by Prof. <a href='https://scholar.google.com/citations?user=gFtI-8QAAAAJ'>Yu Qiao</a> and Prof. <a href='https://scholar.google.com/citations?user=hD948dkAAAAJ'>Yali Wang</a>. I have been a Research Intern at MEGVII and Sensetime. Now I'm working at <a href='https://www.shlab.org.cn/'> Shanghai AI Lab </a>.
+- [2020-Now]💪 I‘m pursuing a Ph.D. in Computer Science at UCAS, advised by Prof. <a href='https://scholar.google.com/citations?user=gFtI-8QAAAAJ'>Yu Qiao</a> and Prof. <a href='https://scholar.google.com/citations?user=hD948dkAAAAJ'>Yali Wang</a>. I have been a Research Intern at MEGVII and SenseTime. Now I'm working at <a href='https://www.shlab.org.cn/'> Shanghai AI Lab</a>.
 
 
 🔭 Research Interests
