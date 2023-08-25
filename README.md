@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
 
 I'm  ✨ <a href='https://scholar.google.com/citations?user=D4tLSbsAAAAJ'> **Kunchang Li** </a> ✨, a student at UCAS, China 🇨🇳. 
+
+➡️ **You can find my detailed CV [here](https://github.com/Andy1621/Andy1621/blob/main/CV_LIKUNCHANG.pdf).**
 
 
 💼 Experiences
