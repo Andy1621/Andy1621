@@ -17,8 +17,8 @@ I'm  ✨ <a href='https://scholar.google.com/citations?user=D4tLSbsAAAAJ'> **Kun
 - ⚖️ Vision Transformer
 - 🤔 ...
 
-| <a href="https://github.com/Andy1621"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Andy1621&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Andy1621's github stats" /></a> | <a href="https://github.com/Andy1621"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy1621&layout=compact&theme=default&hide_border=true" /></a> |
-| ------------- | ------------- |
+<!-- | <a href="https://github.com/Andy1621"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Andy1621&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Andy1621's github stats" /></a> | <a href="https://github.com/Andy1621"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy1621&layout=compact&theme=default&hide_border=true" /></a> |
+| ------------- | ------------- | -->
 
 #### Top Repositories
 
