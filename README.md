@@ -1,7 +1,8 @@
 ### Hi there 👋 
 
-I'm  ✨ <a href='[https://scholar.google.com/citations?user=D4tLSbsAAAA](https://andy1621.github.io/)J'> **Kunchang Li** </a> ✨, a student at UCAS, China 🇨🇳. 
+I'm  ✨ <a href='https://andy1621.github.io/'> **Kunchang Li** </a> ✨, a student at UCAS, China 🇨🇳. 
 
+**Please check my <a href='https://andy1621.github.io/'> website<a> for more details.**
 <!-- ➡️ **You can find my detailed CV [here](https://github.com/Andy1621/Andy1621/blob/main/CV_LIKUNCHANG.pdf).**-->
 
 
