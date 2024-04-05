@@ -1,8 +1,8 @@
 ### Hi there 👋 
 
-I'm  ✨ <a href='https://scholar.google.com/citations?user=D4tLSbsAAAAJ'> **Kunchang Li** </a> ✨, a student at UCAS, China 🇨🇳. 
+I'm  ✨ <a href='[https://scholar.google.com/citations?user=D4tLSbsAAAA](https://andy1621.github.io/)J'> **Kunchang Li** </a> ✨, a student at UCAS, China 🇨🇳. 
 
-➡️ **You can find my detailed CV [here](https://github.com/Andy1621/Andy1621/blob/main/CV_LIKUNCHANG.pdf).**
+<!-- ➡️ **You can find my detailed CV [here](https://github.com/Andy1621/Andy1621/blob/main/CV_LIKUNCHANG.pdf).**-->
 
 
 💼 Experiences
@@ -12,13 +12,13 @@ I'm  ✨ <a href='https://scholar.google.com/citations?user=D4tLSbsAAAAJ'> **Kun
 
 🔭 Research Interests
 - 📹 Video Understanding
-- ⚡️ Light-weight Model Design
-- 📚 Multimodal Learning
-- ⚖️ Vision Transformer
+- ⚡️ EfficientArchitecture
+- 📚 Multi-modality Learning
+- 🦄 Video Generation
 - 🤔 ...
 
 <!-- | <a href="https://github.com/Andy1621"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Andy1621&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Andy1621's github stats" /></a> | <a href="https://github.com/Andy1621"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy1621&layout=compact&theme=default&hide_border=true" /></a> |
-| ------------- | ------------- | -->
+| ------------- | ------------- |-->
 
 #### Top Repositories
 
