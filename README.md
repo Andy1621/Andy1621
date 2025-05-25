@@ -20,18 +20,3 @@ I'm  ✨ <a href='https://andy1621.github.io/'> **Kunchang Li** </a> ✨, a stud
 
 <!-- | <a href="https://github.com/Andy1621"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Andy1621&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Andy1621's github stats" /></a> | <a href="https://github.com/Andy1621"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy1621&layout=compact&theme=default&hide_border=true" /></a> |
 | ------------- | ------------- |-->
-
-#### Top Repositories
-
-<a href="https://github.com/OpenGVLab/Ask-Anything">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OpenGVLab&repo=Ask-Anything&theme=default" />
-</a>
-<a href="https://github.com/Sense-X/UniFormer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sense-X&repo=UniFormer&theme=default" />
-</a>
-<!-- <a href="https://github.com/Andy1621/seg-for-fun">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Andy1621&repo=seg-for-fun&theme=default" />
-</a> -->
-<!-- <a href="https://github.com/Andy1621/CT-Net">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Andy1621&repo=CT-Net&theme=default" />
-</a> -->
