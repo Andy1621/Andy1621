@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm  ✨ <a href='https://andy1621.github.io/'> **Kunchang Li** </a> ✨, a student at UCAS, China 🇨🇳. 
+I'm  ✨ <a href='https://andy1621.github.io/'> **Kunchang Li** </a> ✨, a researcher at <a href='https://seed.bytedance.com/'>Seed, Bytedance</a>. 
 
 **Please check my <a href='https://andy1621.github.io/'> website<a> for more details.**
 <!-- ➡️ **You can find my detailed CV [here](https://github.com/Andy1621/Andy1621/blob/main/CV_LIKUNCHANG.pdf).**-->
@@ -8,7 +8,7 @@ I'm  ✨ <a href='https://andy1621.github.io/'> **Kunchang Li** </a> ✨, a stud
 
 💼 Experiences
 - [2016-2020]🎉 I received my B.E. degree in Software Engineering at Beihang University.
-- [2020-Now]💪 I‘m pursuing a Ph.D. in Computer Science at UCAS, advised by Prof. <a href='https://scholar.google.com/citations?user=gFtI-8QAAAAJ'>Yu Qiao</a> and Prof. <a href='https://scholar.google.com/citations?user=hD948dkAAAAJ'>Yali Wang</a>. I have been a Research Intern at MEGVII, SenseTime and Shanghai AI Lab. Now I'm working at <a href='https://seed.bytedance.com/'>Bytedance Seed</a>.
+- [2020-2025]💪 I received my Ph.D. degree in Computer Science at SIAT, UCAS, advised by Prof. <a href='https://scholar.google.com/citations?user=gFtI-8QAAAAJ'>Yu Qiao</a> and Prof. <a href='https://scholar.google.com/citations?user=hD948dkAAAAJ'>Yali Wang</a>. I have been a Research Intern at MEGVII, SenseTime, Shanghai AI Lab and Bytedance.
 
 
 🔭 Research Interests
